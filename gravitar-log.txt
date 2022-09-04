@@ -1,0 +1,475 @@
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+marking, episode: 0, score: 0.0, mean_score: 0.00, std_score: 0.00
+episode: 5, score: 0.0, epsilon: 0.00
+episode: 10, score: 0.0, epsilon: 0.00
+episode: 15, score: 0.0, epsilon: 0.00
+episode: 20, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 25, score: 0.0, epsilon: 0.00
+episode: 30, score: 0.0, epsilon: 0.00
+episode: 35, score: 0.0, epsilon: 0.00
+episode: 40, score: 0.0, epsilon: 0.00
+episode: 45, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 50, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 55, score: 0.0, epsilon: 0.00
+episode: 60, score: 0.0, epsilon: 0.00
+episode: 65, score: 0.0, epsilon: 0.00
+episode: 70, score: 0.0, epsilon: 0.00
+episode: 75, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 80, score: 250.0, epsilon: 0.00
+episode: 85, score: 0.0, epsilon: 0.00
+episode: 90, score: 100.0, epsilon: 0.00
+episode: 95, score: 0.0, epsilon: 0.00
+marking, episode: 100, score: 100.0, mean_score: 39.80, std_score: 85.10
+episode: 100, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 105, score: 500.0, epsilon: 0.00
+episode: 110, score: 0.0, epsilon: 0.00
+episode: 115, score: 250.0, epsilon: 0.00
+episode: 120, score: 250.0, epsilon: 0.00
+episode: 125, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 130, score: 0.0, epsilon: 0.00
+episode: 135, score: 0.0, epsilon: 0.00
+episode: 140, score: 750.0, epsilon: 0.00
+episode: 145, score: 100.0, epsilon: 0.00
+episode: 150, score: 750.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 155, score: 0.0, epsilon: 0.00
+episode: 160, score: 0.0, epsilon: 0.00
+episode: 165, score: 0.0, epsilon: 0.00
+episode: 170, score: 0.0, epsilon: 0.00
+episode: 175, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 180, score: 0.0, epsilon: 0.00
+episode: 185, score: 100.0, epsilon: 0.00
+episode: 190, score: 0.0, epsilon: 0.00
+episode: 195, score: 100.0, epsilon: 0.00
+marking, episode: 200, score: 500.0, mean_score: 161.00, std_score: 197.05
+episode: 200, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 205, score: 0.0, epsilon: 0.00
+episode: 210, score: 600.0, epsilon: 0.00
+episode: 215, score: 100.0, epsilon: 0.00
+episode: 220, score: 0.0, epsilon: 0.00
+episode: 225, score: 200.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 230, score: 350.0, epsilon: 0.00
+episode: 235, score: 0.0, epsilon: 0.00
+episode: 240, score: 0.0, epsilon: 0.00
+episode: 245, score: 350.0, epsilon: 0.00
+episode: 250, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 255, score: 100.0, epsilon: 0.00
+episode: 260, score: 250.0, epsilon: 0.00
+episode: 265, score: 250.0, epsilon: 0.00
+episode: 270, score: 0.0, epsilon: 0.00
+episode: 275, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 280, score: 100.0, epsilon: 0.00
+episode: 285, score: 100.0, epsilon: 0.00
+episode: 290, score: 350.0, epsilon: 0.00
+episode: 295, score: 100.0, epsilon: 0.00
+marking, episode: 300, score: 0.0, mean_score: 146.50, std_score: 182.11
+episode: 300, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 305, score: 0.0, epsilon: 0.00
+episode: 310, score: 100.0, epsilon: 0.00
+episode: 315, score: 450.0, epsilon: 0.00
+episode: 320, score: 350.0, epsilon: 0.00
+episode: 325, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 330, score: 0.0, epsilon: 0.00
+episode: 335, score: 100.0, epsilon: 0.00
+episode: 340, score: 100.0, epsilon: 0.00
+episode: 345, score: 0.0, epsilon: 0.00
+episode: 350, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 355, score: 0.0, epsilon: 0.00
+episode: 360, score: 0.0, epsilon: 0.00
+episode: 365, score: 100.0, epsilon: 0.00
+episode: 370, score: 0.0, epsilon: 0.00
+episode: 375, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 380, score: 100.0, epsilon: 0.00
+episode: 385, score: 600.0, epsilon: 0.00
+episode: 390, score: 250.0, epsilon: 0.00
+episode: 395, score: 100.0, epsilon: 0.00
+marking, episode: 400, score: 0.0, mean_score: 176.00, std_score: 191.90
+episode: 400, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 405, score: 100.0, epsilon: 0.00
+episode: 410, score: 350.0, epsilon: 0.00
+episode: 415, score: 0.0, epsilon: 0.00
+episode: 420, score: 0.0, epsilon: 0.00
+episode: 425, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 430, score: 500.0, epsilon: 0.00
+episode: 435, score: 0.0, epsilon: 0.00
+episode: 440, score: 0.0, epsilon: 0.00
+episode: 445, score: 600.0, epsilon: 0.00
+episode: 450, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 455, score: 0.0, epsilon: 0.00
+episode: 460, score: 0.0, epsilon: 0.00
+episode: 465, score: 600.0, epsilon: 0.00
+episode: 470, score: 0.0, epsilon: 0.00
+episode: 475, score: 200.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 480, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 485, score: 500.0, epsilon: 0.00
+episode: 490, score: 0.0, epsilon: 0.00
+episode: 495, score: 0.0, epsilon: 0.00
+marking, episode: 500, score: 750.0, mean_score: 255.00, std_score: 273.36
+episode: 500, score: 750.0, epsilon: 0.00
+episode: 505, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 510, score: 200.0, epsilon: 0.00
+episode: 515, score: 0.0, epsilon: 0.00
+episode: 520, score: 100.0, epsilon: 0.00
+episode: 525, score: 350.0, epsilon: 0.00
+episode: 530, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 535, score: 0.0, epsilon: 0.00
+episode: 540, score: 0.0, epsilon: 0.00
+episode: 545, score: 0.0, epsilon: 0.00
+episode: 550, score: 250.0, epsilon: 0.00
+episode: 555, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 560, score: 100.0, epsilon: 0.00
+episode: 565, score: 0.0, epsilon: 0.00
+episode: 570, score: 250.0, epsilon: 0.00
+episode: 575, score: 0.0, epsilon: 0.00
+episode: 580, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 585, score: 100.0, epsilon: 0.00
+episode: 590, score: 100.0, epsilon: 0.00
+episode: 595, score: 250.0, epsilon: 0.00
+marking, episode: 600, score: 100.0, mean_score: 180.50, std_score: 220.56
+episode: 600, score: 100.0, epsilon: 0.00
+episode: 605, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 610, score: 0.0, epsilon: 0.00
+episode: 615, score: 300.0, epsilon: 0.00
+episode: 620, score: 0.0, epsilon: 0.00
+episode: 625, score: 700.0, epsilon: 0.00
+episode: 630, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 635, score: 0.0, epsilon: 0.00
+episode: 640, score: 0.0, epsilon: 0.00
+episode: 645, score: 100.0, epsilon: 0.00
+episode: 650, score: 250.0, epsilon: 0.00
+episode: 655, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 660, score: 250.0, epsilon: 0.00
+episode: 665, score: 100.0, epsilon: 0.00
+episode: 670, score: 600.0, epsilon: 0.00
+episode: 675, score: 0.0, epsilon: 0.00
+episode: 680, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 685, score: 250.0, epsilon: 0.00
+episode: 690, score: 0.0, epsilon: 0.00
+episode: 695, score: 0.0, epsilon: 0.00
+marking, episode: 700, score: 500.0, mean_score: 175.00, std_score: 188.61
+episode: 700, score: 500.0, epsilon: 0.00
+episode: 705, score: 700.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 710, score: 250.0, epsilon: 0.00
+episode: 715, score: 250.0, epsilon: 0.00
+episode: 720, score: 0.0, epsilon: 0.00
+episode: 725, score: 200.0, epsilon: 0.00
+episode: 730, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 735, score: 250.0, epsilon: 0.00
+episode: 740, score: 0.0, epsilon: 0.00
+episode: 745, score: 0.0, epsilon: 0.00
+episode: 750, score: 250.0, epsilon: 0.00
+episode: 755, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 760, score: 450.0, epsilon: 0.00
+episode: 765, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 770, score: 850.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 772, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 774, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 776, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 778, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 780, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 782, score: 200.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 784, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 786, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 788, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 790, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 792, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 794, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 796, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 798, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+marking, episode: 800, score: 0.0, mean_score: 246.30, std_score: 183.04
+episode: 800, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 802, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 804, score: 550.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 806, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 808, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 810, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 812, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 814, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 816, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 818, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 820, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 822, score: 450.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 824, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 826, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 828, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 830, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 832, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 834, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 836, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 838, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 840, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 842, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 844, score: 200.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 846, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 848, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 850, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 852, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 854, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 856, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 858, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 860, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 862, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 864, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 866, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 868, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 870, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 872, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 874, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 876, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 878, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 880, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 882, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 884, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 886, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 888, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 890, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 892, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 894, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 896, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 898, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+marking, episode: 900, score: 250.0, mean_score: 195.77, std_score: 212.92
+episode: 900, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 902, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 904, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 906, score: 750.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 908, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 910, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 912, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 914, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 916, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 918, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 920, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 922, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 924, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 926, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 928, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 930, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 932, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 934, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 936, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 938, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 940, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 942, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 944, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 946, score: 700.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 948, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 950, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 952, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 954, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 956, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 958, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 960, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 962, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 964, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 966, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 968, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 970, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 972, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 974, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 976, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 978, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 980, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 982, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 984, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 986, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 988, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 990, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 992, score: 850.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 994, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 996, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 998, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+marking, episode: 1000, score: 0.0, mean_score: 122.00, std_score: 189.52
+episode: 1000, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1002, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1004, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1006, score: 500.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1008, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1010, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1012, score: 200.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1014, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1016, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1018, score: 350.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1020, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1022, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1024, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1026, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1028, score: 700.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1030, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1032, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1034, score: 250.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1036, score: 450.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1038, score: 100.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1040, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1042, score: 0.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+episode: 1044, score: 600.0, epsilon: 0.00
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:393: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+
