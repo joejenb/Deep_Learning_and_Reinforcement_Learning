@@ -1,5 +1,5 @@
 ## Overview
-Project can be split into two parts: Deep Learning and Reinforcement Learning. Code and examples is given for both of these. A report is also given for the Deep Learning section.
+Project can be split into two parts: Deep Learning and Reinforcement Learning. Code and examples are given for both of these. A report is also given for the Deep Learning section.
 
 ## Deep Learning
 Had to create a generative model for images of white, winged horses using only the Cifar10 and STL100 datasets independently. An example of a generated image is given below. For details of the theory used please see 'pegasus-paper.pdf'.
